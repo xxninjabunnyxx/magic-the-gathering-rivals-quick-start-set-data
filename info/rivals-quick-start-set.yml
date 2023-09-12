@@ -1,0 +1,16 @@
+---
+object: set
+id: 8a407de5-5d19-44ad-ad77-6417c5ee6083
+code: rqs
+tcgplayer_id: 2778
+name: Rivals Quick Start Set
+uri: https://api.scryfall.com/sets/8a407de5-5d19-44ad-ad77-6417c5ee6083
+scryfall_uri: https://scryfall.com/sets/rqs
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Arqs&unique=prints
+released_at: '1996-07-01'
+set_type: box
+card_count: 65
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/default.svg?1694404800
